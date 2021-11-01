@@ -1,5 +1,6 @@
 *.png
-reciepts/plots
+reciepts/*
+!reciepts/data/
 
  
 
